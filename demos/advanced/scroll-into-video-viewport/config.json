@@ -1,0 +1,13 @@
+{
+	"title": "Scroll Into Video Viewport",
+	"description": "Video plays when visible, pauses when out of sight.",
+	"license": "Ads",
+	"showCode": true,
+	"apiCalls": [
+		""
+	],
+	"author": {
+		"name": "JW Player",
+		"githubUsername": "jwplayer"
+	}
+}
